@@ -222,7 +222,6 @@ footer{
     background-color: aliceblue;
     padding: 60px;
     overflow: hidden;
-    display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin: auto;
