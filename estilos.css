@@ -233,8 +233,8 @@ footer{
 }
 .partFooter .logo{
     background-color: darkblue;
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -242,7 +242,7 @@ footer{
     margin: auto;
 }
 .partFooter .logo img{
-    width: 80px;
+    width: 650px;
 }
 .partFooter h5{
     color: #1d273b;
