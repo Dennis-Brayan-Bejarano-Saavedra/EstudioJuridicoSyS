@@ -35,7 +35,7 @@ nav{
     height: 80px;
     border-bottom: 1px solid transparent;
     box-shadow: 1px 1px 10px rgb(0, 0, 0, .2);
-    background-color: rgb(139, 0, 14);
+    background-color: rgb(9, 2, 2);
     position: fixed;
     top: 0;
     z-index: 100;
@@ -89,8 +89,8 @@ nav{
 }
 .textos-header p{
     font-weight: 100;
-    margin-top: 14px;
-    color: darkblue;
+    margin-top: 30px;
+    color: black;
 }
 .textos-header a{
     margin-top: 28px;
@@ -128,7 +128,7 @@ nav{
 .articulo svg{
     font-size: 30px;
     color: white;
-    background-color: darkblue;
+    background-color: rgb(148, 12, 12);;
     display: inline-block;
     width: 70px;
     height: 70px;
@@ -164,7 +164,7 @@ nav{
 .texto-desing svg{    
     font-size: 30px;
     color: white;
-    background-color: darkblue;
+    background-color: rgb(148, 12, 12);;
     display: inline-block;
     width: 70px;
     height: 70px;
@@ -182,7 +182,7 @@ nav{
     margin-top: 28px;
     display: block;
     width: 130px;
-    background-color: darkblue;
+    background-color: rgb(148, 12, 12);;
     text-align: center;
     color: white;
     padding: 12px 0;
@@ -231,7 +231,7 @@ footer{
     text-align: center;
 }
 .partFooter .logo{
-    background-color: darkblue;
+    background-color: rgb(24, 2, 2);;
     width: 100px;
     height: 100px;
     border-radius: 50%;
